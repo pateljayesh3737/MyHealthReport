@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_report_results_for_blood_urine_and_general_lab">Results for blood, urine, and general lab.</string>
+    <string name="feature_report_lab_and_diagnostics">Lab and Diagnostics</string>
+    <string name="feature_report_lab_and_diagnostics_icon">Lab and Diagnostics Icon</string>
+    <string name="feature_report_observations">Observations:</string>
+    <string name="feature_report_effective_date">Effective Date: %1$s</string>
+    <string name="feature_report_test_performers">Test Performers: %1$s</string>
+    <string name="feature_report_report_name">Report Name: %1$s</string>
+    <string name="feature_report_description">Description: %1$s</string>
+    <string name="feature_report_value">Value: %1$s %2$s</string>
+    <string name="feature_report_reference_range">Reference Range: %1$s - %2$s %3$s</string>
+    <string name="feature_report_performed_by">Performed by: %1$s</string>
+    <string name="feature_report_n_a">N/A</string>
+</resources>
